@@ -1,0 +1,7 @@
+17 Pidgeotto 1428 142 3
+7 Squirtle 980 98 2
+60 Poliwag 485 48 1
+25 Pikachu 687 68 1
+96 Drowzee 572 57 2
+87 Dewgong 2360 236 5
+112 Rhydon 2021 202 5
